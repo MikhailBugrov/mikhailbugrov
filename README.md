@@ -1,17 +1,15 @@
 # Привет, меня зовут Михаил!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&height=30&lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&height=30&lines=Frontend+Developer)](https://git.io/typing-svg) 
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhail-bugrov-v)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhail_bugrov_v)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikhail.bugrov.v@gmail.com)
+
+---
 
 ### &#x1F468;&#x200D;&#x1F4BB; Обо мне:
 
 Я - энергичный и мотивированный Frontend-разработчик с уверенным знанием JavaScript, HTML5 и CSS3. Мой стек технологий включает React JS, Redux Toolkit и TypeScript, что позволяет мне создавать масштабируемые и гибкие веб-приложения. В моей работе активно использовался Bitbucket и Jira для обеспечения эффективной работы по методологии Scrum. Кроме того, я использую RTK Query для управления сетевыми запросами и Material UI для создания привлекательного пользовательского интерфейса. Я стремлюсь к постоянному обучению и развитию, всегда готов принять новые вызовы и принести свой вклад в команду разработчиков.
-
----
-
-### &#x1F91D; Контакты:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mikhail-bugrov-v)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhail_bugrov_v)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mikhail.bugrov.v@gmail.com)
 
 ---
 
@@ -37,4 +35,3 @@
 ### &#x1F4BB; Codewars:
 
 [![codewars](https://www.codewars.com/users/MikhailBugrov/badges/large)](https://www.codewars.com/users/MikhailBugrov)
-
