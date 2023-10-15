@@ -1,7 +1,7 @@
 # Привет, меня зовут Михаил!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&height=30&lines=Frontend+Developer)](https://git.io/typing-svg) 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhail-bugrov-v)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&height=30&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhail_bugrov_v)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikhail.bugrov.v@gmail.com)
 
@@ -9,11 +9,9 @@
 
 ### &#x1F468;&#x200D;&#x1F4BB; Обо мне:
 
-Люблю узнавать новое в сфере IT. Ответственно отношусь к рабочим задачам.
-Стремлюсь к постоянному обучению и развитию, готов принять новые вызовы и внести ценный вклад в команду разработчиков.
+Ответственно отношусь к рабочим задачам. Постоянно развиваюсь в сфере IT и практикую новые технологии.
 
-Основной стек технологий: TypeScript, React.js, Redux (Toolkit, RTK Query), React Query, scss, CSS-in-JS (Styled Components, Material UI), Figma.
-Дополнительные знания: Next.js, Zustand, React Native, GraphQL.
+Основной стек технологий: TypeScript, React.js, Next.js, Redux Toolkit, RTK Query, React Query, scss, CSS-in-JS (Styled Components, Material UI), Figma.
 
 ---
 
