@@ -29,7 +29,6 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)](https://bitbucket.org)
 [![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white)](https://material-ui.com)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org)
-[![gulp](https://img.shields.io/badge/-gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com)
 
 ---
